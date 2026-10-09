@@ -1,5 +1,7 @@
 # Projeto Alerta Luminoso e Sonoro com BlackBoard RoboCore
 
+# feito por Rafael e Vinicius
+
 Este projeto utiliza uma placa **BlackBoard da RoboCore** para criar um sistema de sinalização que alterna luzes LED (azul e vermelha) e gera uma variação de frequência sonora utilizando um buzzer piezoelétrico. É ideal para estudos de lógica de programação em microcontroladores, controle de portas digitais/analógicas e manipulação de atuadores.
 
 ---
